@@ -1,0 +1,697 @@
+[
+  {
+    "id": 1,
+    "title": "Floral Dress",
+    "price": 1200,
+    "category": "dress",
+    "brand": "zara",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0AvWQup3cEbgHc-nRjhEyNBHIJ-IhHJMCcbPVbG2BTSsIRciLo_Naocx4TSO2zGyEVdjwNLliI0SQ7VkoR559VG6QOscoGDPlNfnSF415siMfjy02zhYLTA",
+    "description": "Beautiful floral print dress perfect for summer outings.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Party Dress",
+    "price": 1800,
+    "category": "dress",
+    "brand": "hm",
+    "thumbnail": "https://bandhanipalace.co.in/images/product/2025/03/dani-creation-anjubaa-vol-4-heavy-designer-party-wear-gown-dress-2025-03-13_14_39_18.jpeg",
+    "description": "Stylish party dress ideal for special occasions.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Casual Dress",
+    "price": 1400,
+    "category": "dress",
+    "brand": "zara",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTSV-257yNjkTRMsqK1waBBOgUEf0pognQ0yi4WSCjncN6BaDCKF6fSpxhuT74KpzTnl8AqRkCcRMYJmhkiCKAcfUnM0wXt3Xtd7NSEWwHX2iJh5SWnZ4vOYg",
+    "description": "Comfortable casual dress for everyday wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Maxi Dress",
+    "price": 2000,
+    "category": "dress",
+    "brand": "hm",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRPspcXjXpimXLsmZE1uSukJVX1WmLlAIHb3_NZmtPoqA-h8LebAaz3tOTHVsZnysZM4pu973q4_PAlZTwSmbETulApbiTDoOebO0j48Y-n-2ro9fJ_mmc9",
+    "description": "Elegant maxi dress with a flowy design.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Summer Dress",
+    "price": 1100,
+    "category": "dress",
+    "brand": "zara",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPqQhm5wW0Qqqe8o7wm3b27S3vucbBriAzFEDXI3pbXV99SGbNQDaprqt4u6xaOEwjvAt2Hs6wHMfTf5iCwXzlEno1Sf003-eetQ40eSu-ww1bC9vnZti7S0w",
+    "description": "Lightweight summer dress for hot days.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Crop Top",
+    "price": 700,
+    "category": "top",
+    "brand": "zara",
+    "thumbnail": "https://honkytonky.in/cdn/shop/files/4221-1_edec094a-ebd0-4a06-8c1b-cb5b72dd9ad6.jpg?v=1705988213&width=1000",
+    "description": "Trendy crop top for a modern look.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Casual Top",
+    "price": 600,
+    "category": "top",
+    "brand": "hm",
+    "thumbnail": "https://rukminim2.flixcart.com/image/480/640/xif0q/top/p/9/b/s-star-consine-printed-top-himanc-enterprises-original-imahfmgqwnshgwkw.jpeg?q=90",
+    "description": "Simple and comfortable top for daily wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Printed Top",
+    "price": 900,
+    "category": "top",
+    "brand": "zara",
+    "thumbnail": "https://www.designer-mart.com/cdn/shop/files/designer-mart-women-s-rayon-printed-top-designer-mart_49679c8d-8109-4873-ad4c-90ca18c91fbe.jpg?v=1752654023",
+    "description": "Printed top with stylish patterns.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Sleeveless Top",
+    "price": 800,
+    "category": "top",
+    "brand": "hm",
+    "thumbnail": "https://picsum.photos/200?9",
+    "description": "Sleeveless top for a cool and chic style.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Designer Top",
+    "price": 1000,
+    "category": "top",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?10",
+    "description": "Designer top with premium fabric.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Blue Jeans",
+    "price": 1500,
+    "category": "jeans",
+    "brand": "levis",
+    "thumbnail": "https://picsum.photos/200?11",
+    "description": "Classic blue jeans with durable fabric.",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Black Jeans",
+    "price": 1700,
+    "category": "jeans",
+    "brand": "wrangler",
+    "thumbnail": "https://picsum.photos/200?12",
+    "description": "Stylish black jeans for a bold look.",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Slim Fit Jeans",
+    "price": 1600,
+    "category": "jeans",
+    "brand": "levis",
+    "thumbnail": "https://picsum.photos/200?13",
+    "description": "Slim fit jeans for a modern style.",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Skinny Jeans",
+    "price": 1800,
+    "category": "jeans",
+    "brand": "wrangler",
+    "thumbnail": "https://picsum.photos/200?14",
+    "description": "Skinny jeans with stretchable fabric.",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Regular Jeans",
+    "price": 1400,
+    "category": "jeans",
+    "brand": "levis",
+    "thumbnail": "https://picsum.photos/200?15",
+    "description": "Regular fit jeans for everyday comfort.",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Running Shoes",
+    "price": 2200,
+    "category": "shoes",
+    "brand": "nike",
+    "thumbnail": "https://picsum.photos/200?16",
+    "description": "Lightweight running shoes with comfort sole.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Casual Shoes",
+    "price": 2000,
+    "category": "shoes",
+    "brand": "adidas",
+    "thumbnail": "https://picsum.photos/200?17",
+    "description": "Casual shoes for daily wear.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Sports Shoes",
+    "price": 2500,
+    "category": "shoes",
+    "brand": "nike",
+    "thumbnail": "https://picsum.photos/200?18",
+    "description": "Sports shoes with high performance grip.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "White Sneakers",
+    "price": 2300,
+    "category": "shoes",
+    "brand": "adidas",
+    "thumbnail": "https://picsum.photos/200?19",
+    "description": "Trendy white sneakers for all outfits.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Training Shoes",
+    "price": 2100,
+    "category": "shoes",
+    "brand": "nike",
+    "thumbnail": "https://picsum.photos/200?20",
+    "description": "Training shoes with flexible sole.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Mini Skirt",
+    "price": 900,
+    "category": "skirt",
+    "brand": "zara",
+    "thumbnail": "https://www.berrylush.com/cdn/shop/products/1_95ac152f-9061-45c8-8644-cb224ba1fb63.jpg?v=1750077007",
+    "description": "Stylish mini skirt for trendy look.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Denim Skirt",
+    "price": 1200,
+    "category": "skirt",
+    "brand": "hm",
+    "thumbnail": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2025/APRIL/22/Cte4qWvB_23df2c50d6ba4e508c0f92a0da03a3ba.jpg",
+    "description": "Denim skirt with durable fabric.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Pleated Skirt",
+    "price": 1100,
+    "category": "skirt",
+    "brand": "zara",
+    "thumbnail": "https://m.media-amazon.com/images/I/61HXVW0N9WL._AC_UY350_.jpg",
+    "description": "Pleated skirt with elegant design.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Long Skirt",
+    "price": 1300,
+    "category": "skirt",
+    "brand": "hm",
+    "thumbnail": "https://media.landmarkshops.in/cdn-cgi/image/h=730,w=540,q=85,fit=cover/max-new/1000016590482-OffWhite-IVORY-1000016590482_01-2100.jpg",
+    "description": "Long skirt perfect for formal wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Cotton Skirt",
+    "price": 1000,
+    "category": "skirt",
+    "brand": "zara",
+    "thumbnail": "https://img.tatacliq.com/images/i6/437Wx649H/MP000000005696592_437Wx649H_20200726235509.jpeg",
+    "description": "Cotton skirt for comfort and style.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Winter Jacket",
+    "price": 3000,
+    "category": "jacket",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?26",
+    "description": "Warm winter jacket for cold weather.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Leather Jacket",
+    "price": 3500,
+    "category": "jacket",
+    "brand": "hm",
+    "thumbnail": "https://picsum.photos/200?27",
+    "description": "Premium leather jacket for stylish look.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Denim Jacket",
+    "price": 2800,
+    "category": "jacket",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?28",
+    "description": "Denim jacket for casual style.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Casual Jacket",
+    "price": 2600,
+    "category": "jacket",
+    "brand": "hm",
+    "thumbnail": "https://picsum.photos/200?29",
+    "description": "Light casual jacket for daily wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Hooded Jacket",
+    "price": 3200,
+    "category": "jacket",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?30",
+    "description": "Hooded jacket for extra comfort.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Handbag",
+    "price": 1500,
+    "category": "bag",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?31",
+    "description": "Stylish handbag for daily use.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Shoulder Bag",
+    "price": 1700,
+    "category": "bag",
+    "brand": "hm",
+    "thumbnail": "https://picsum.photos/200?32",
+    "description": "Comfortable shoulder bag for travel.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Travel Bag",
+    "price": 2000,
+    "category": "bag",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?33",
+    "description": "Spacious travel bag for trips.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Clutch Bag",
+    "price": 1200,
+    "category": "bag",
+    "brand": "hm",
+    "thumbnail": "https://picsum.photos/200?34",
+    "description": "Elegant clutch bag for parties.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Tote Bag",
+    "price": 1800,
+    "category": "bag",
+    "brand": "zara",
+    "thumbnail": "https://picsum.photos/200?35",
+    "description": "Large tote bag for daily essentials.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Kurti",
+    "price": 900,
+    "category": "ethnic",
+    "brand": "biba",
+    "thumbnail": "https://picsum.photos/200?36",
+    "description": "Traditional kurti with modern design.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Salwar Suit",
+    "price": 2200,
+    "category": "ethnic",
+    "brand": "biba",
+    "thumbnail": "https://picsum.photos/200?37",
+    "description": "Elegant salwar suit for festive wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Lehenga",
+    "price": 4000,
+    "category": "ethnic",
+    "brand": "biba",
+    "thumbnail": "https://picsum.photos/200?38",
+    "description": "Beautiful lehenga for weddings.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Anarkali",
+    "price": 3000,
+    "category": "ethnic",
+    "brand": "biba",
+    "thumbnail": "https://picsum.photos/200?39",
+    "description": "Anarkali dress with royal look.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Dupatta Set",
+    "price": 1500,
+    "category": "ethnic",
+    "brand": "biba",
+    "thumbnail": "https://picsum.photos/200?40",
+    "description": "Stylish dupatta set for ethnic wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Heels",
+    "price": 1800,
+    "category": "footwear",
+    "brand": "metro",
+    "thumbnail": "https://picsum.photos/200?41",
+    "description": "High heels for party and formal wear.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Sandals",
+    "price": 1200,
+    "category": "footwear",
+    "brand": "metro",
+    "thumbnail": "https://picsum.photos/200?42",
+    "description": "Comfortable sandals for daily use.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Flats",
+    "price": 1000,
+    "category": "footwear",
+    "brand": "metro",
+    "thumbnail": "https://picsum.photos/200?43",
+    "description": "Flat footwear for casual style.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Slip Ons",
+    "price": 1100,
+    "category": "footwear",
+    "brand": "metro",
+    "thumbnail": "https://picsum.photos/200?44",
+    "description": "Easy slip-on shoes for comfort.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Casual Sandals",
+    "price": 1300,
+    "category": "footwear",
+    "brand": "metro",
+    "thumbnail": "https://picsum.photos/200?45",
+    "description": "Casual sandals with stylish design.",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Watch",
+    "price": 2500,
+    "category": "accessories",
+    "brand": "fastrack",
+    "thumbnail": "https://picsum.photos/200?46",
+    "description": "Stylish watch with modern design.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Sunglasses",
+    "price": 1500,
+    "category": "accessories",
+    "brand": "fastrack",
+    "thumbnail": "https://picsum.photos/200?47",
+    "description": "Trendy sunglasses for outdoor use.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Bracelet",
+    "price": 800,
+    "category": "accessories",
+    "brand": "fastrack",
+    "thumbnail": "https://picsum.photos/200?48",
+    "description": "Stylish bracelet for daily wear.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Necklace",
+    "price": 1200,
+    "category": "accessories",
+    "brand": "fastrack",
+    "thumbnail": "https://picsum.photos/200?49",
+    "description": "Elegant necklace for special occasions.",
+    "sizes": [
+      "One Size"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Earrings",
+    "price": 600,
+    "category": "accessories",
+    "brand": "fastrack",
+    "thumbnail": "https://picsum.photos/200?50",
+    "description": "Beautiful earrings for a classy look.",
+    "sizes": [
+      "One Size"
+    ]
+  }
+]

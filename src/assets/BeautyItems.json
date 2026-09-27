@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty1/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 647,
+    "line_through_price": 763
+  },
+  {
+    "id": 2,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty2/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 310,
+    "line_through_price": 366
+  },
+  {
+    "id": 3,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty3/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1222,
+    "line_through_price": 1442
+  },
+  {
+    "id": 4,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty4/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 864,
+    "line_through_price": 1020
+  },
+  {
+    "id": 5,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty5/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 916,
+    "line_through_price": 1081
+  },
+  {
+    "id": 6,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty6/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 668,
+    "line_through_price": 788
+  },
+  {
+    "id": 7,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty7/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2102,
+    "line_through_price": 2480
+  },
+  {
+    "id": 8,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty8/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 811,
+    "line_through_price": 957
+  },
+  {
+    "id": 9,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty9/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 220,
+    "line_through_price": 260
+  },
+  {
+    "id": 10,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty10/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 638,
+    "line_through_price": 753
+  },
+  {
+    "id": 11,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty11/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2136,
+    "line_through_price": 2520
+  },
+  {
+    "id": 12,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty12/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2091,
+    "line_through_price": 2467
+  },
+  {
+    "id": 13,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty13/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1694,
+    "line_through_price": 1999
+  },
+  {
+    "id": 14,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty14/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1865,
+    "line_through_price": 2201
+  },
+  {
+    "id": 15,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty15/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2352,
+    "line_through_price": 2775
+  },
+  {
+    "id": 16,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty16/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 564,
+    "line_through_price": 666
+  },
+  {
+    "id": 17,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty17/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 753,
+    "line_through_price": 889
+  },
+  {
+    "id": 18,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty18/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2190,
+    "line_through_price": 2584
+  },
+  {
+    "id": 19,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty19/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2357,
+    "line_through_price": 2781
+  },
+  {
+    "id": 20,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty20/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2071,
+    "line_through_price": 2444
+  },
+  {
+    "id": 21,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty21/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1617,
+    "line_through_price": 1908
+  },
+  {
+    "id": 22,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty22/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 363,
+    "line_through_price": 428
+  },
+  {
+    "id": 23,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty23/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 277,
+    "line_through_price": 327
+  },
+  {
+    "id": 24,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty24/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1347,
+    "line_through_price": 1589
+  },
+  {
+    "id": 25,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty25/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 770,
+    "line_through_price": 909
+  },
+  {
+    "id": 26,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty26/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 723,
+    "line_through_price": 853
+  },
+  {
+    "id": 27,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty27/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1613,
+    "line_through_price": 1903
+  },
+  {
+    "id": 28,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty28/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1242,
+    "line_through_price": 1466
+  },
+  {
+    "id": 29,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty29/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1409,
+    "line_through_price": 1663
+  },
+  {
+    "id": 30,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty30/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1636,
+    "line_through_price": 1930
+  },
+  {
+    "id": 31,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty31/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 861,
+    "line_through_price": 1016
+  },
+  {
+    "id": 32,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty32/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2473,
+    "line_through_price": 2918
+  },
+  {
+    "id": 33,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty33/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 595,
+    "line_through_price": 702
+  },
+  {
+    "id": 34,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty34/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 362,
+    "line_through_price": 427
+  },
+  {
+    "id": 35,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty35/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1852,
+    "line_through_price": 2185
+  },
+  {
+    "id": 36,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty36/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1170,
+    "line_through_price": 1381
+  },
+  {
+    "id": 37,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty37/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2273,
+    "line_through_price": 2682
+  },
+  {
+    "id": 38,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty38/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2139,
+    "line_through_price": 2524
+  },
+  {
+    "id": 39,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty39/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1856,
+    "line_through_price": 2190
+  },
+  {
+    "id": 40,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty40/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1011,
+    "line_through_price": 1193
+  },
+  {
+    "id": 41,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty41/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 717,
+    "line_through_price": 846
+  },
+  {
+    "id": 42,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty42/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2094,
+    "line_through_price": 2471
+  },
+  {
+    "id": 43,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty43/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1179,
+    "line_through_price": 1391
+  },
+  {
+    "id": 44,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty44/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2147,
+    "line_through_price": 2533
+  },
+  {
+    "id": 45,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty45/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2313,
+    "line_through_price": 2729
+  },
+  {
+    "id": 46,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty46/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1648,
+    "line_through_price": 1945
+  },
+  {
+    "id": 47,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty47/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1295,
+    "line_through_price": 1528
+  },
+  {
+    "id": 48,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty48/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 852,
+    "line_through_price": 1005
+  },
+  {
+    "id": 49,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty49/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2080,
+    "line_through_price": 2454
+  },
+  {
+    "id": 50,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty50/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 538,
+    "line_through_price": 635
+  },
+  {
+    "id": 51,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty51/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 719,
+    "line_through_price": 848
+  },
+  {
+    "id": 52,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty52/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1875,
+    "line_through_price": 2212
+  },
+  {
+    "id": 53,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty53/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 329,
+    "line_through_price": 388
+  },
+  {
+    "id": 54,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty54/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2349,
+    "line_through_price": 2772
+  },
+  {
+    "id": 55,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty55/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2132,
+    "line_through_price": 2516
+  },
+  {
+    "id": 56,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty56/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1564,
+    "line_through_price": 1846
+  },
+  {
+    "id": 57,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty57/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 342,
+    "line_through_price": 404
+  },
+  {
+    "id": 58,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty58/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 989,
+    "line_through_price": 1167
+  },
+  {
+    "id": 59,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty59/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1514,
+    "line_through_price": 1787
+  },
+  {
+    "id": 60,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty60/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1596,
+    "line_through_price": 1883
+  },
+  {
+    "id": 61,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty61/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1145,
+    "line_through_price": 1351
+  },
+  {
+    "id": 62,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty62/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 383,
+    "line_through_price": 452
+  },
+  {
+    "id": 63,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty63/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 387,
+    "line_through_price": 457
+  },
+  {
+    "id": 64,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty64/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1310,
+    "line_through_price": 1546
+  },
+  {
+    "id": 65,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty65/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2477,
+    "line_through_price": 2923
+  },
+  {
+    "id": 66,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty66/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1373,
+    "line_through_price": 1620
+  },
+  {
+    "id": 67,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty67/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1646,
+    "line_through_price": 1942
+  },
+  {
+    "id": 68,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty68/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1501,
+    "line_through_price": 1771
+  },
+  {
+    "id": 69,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty69/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 705,
+    "line_through_price": 832
+  },
+  {
+    "id": 70,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty70/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 797,
+    "line_through_price": 940
+  },
+  {
+    "id": 71,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty71/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1412,
+    "line_through_price": 1666
+  },
+  {
+    "id": 72,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty72/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 721,
+    "line_through_price": 851
+  },
+  {
+    "id": 73,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty73/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1239,
+    "line_through_price": 1462
+  },
+  {
+    "id": 74,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty74/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 725,
+    "line_through_price": 856
+  },
+  {
+    "id": 75,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty75/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 674,
+    "line_through_price": 795
+  },
+  {
+    "id": 76,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty76/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1954,
+    "line_through_price": 2306
+  },
+  {
+    "id": 77,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty77/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2483,
+    "line_through_price": 2930
+  },
+  {
+    "id": 78,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty78/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2041,
+    "line_through_price": 2408
+  },
+  {
+    "id": 79,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty79/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1900,
+    "line_through_price": 2242
+  },
+  {
+    "id": 80,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty80/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2239,
+    "line_through_price": 2642
+  },
+  {
+    "id": 81,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty81/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2027,
+    "line_through_price": 2392
+  },
+  {
+    "id": 82,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty82/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2111,
+    "line_through_price": 2491
+  },
+  {
+    "id": 83,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty83/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1177,
+    "line_through_price": 1389
+  },
+  {
+    "id": 84,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty84/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1088,
+    "line_through_price": 1284
+  },
+  {
+    "id": 85,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty85/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1631,
+    "line_through_price": 1925
+  },
+  {
+    "id": 86,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty86/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1398,
+    "line_through_price": 1650
+  },
+  {
+    "id": 87,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty87/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 816,
+    "line_through_price": 963
+  },
+  {
+    "id": 88,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty88/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1871,
+    "line_through_price": 2208
+  },
+  {
+    "id": 89,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty89/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1682,
+    "line_through_price": 1985
+  },
+  {
+    "id": 90,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty90/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1213,
+    "line_through_price": 1431
+  },
+  {
+    "id": 91,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty91/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1401,
+    "line_through_price": 1653
+  },
+  {
+    "id": 92,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty92/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1213,
+    "line_through_price": 1431
+  },
+  {
+    "id": 93,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty93/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1407,
+    "line_through_price": 1660
+  },
+  {
+    "id": 94,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty94/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2168,
+    "line_through_price": 2558
+  },
+  {
+    "id": 95,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty95/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1231,
+    "line_through_price": 1453
+  },
+  {
+    "id": 96,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty96/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 994,
+    "line_through_price": 1173
+  },
+  {
+    "id": 97,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty97/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 329,
+    "line_through_price": 388
+  },
+  {
+    "id": 98,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty98/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1292,
+    "line_through_price": 1525
+  },
+  {
+    "id": 99,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty99/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 312,
+    "line_through_price": 368
+  },
+  {
+    "id": 100,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty100/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 280,
+    "line_through_price": 330
+  },
+  {
+    "id": 101,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty101/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1705,
+    "line_through_price": 2012
+  },
+  {
+    "id": 102,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty102/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2356,
+    "line_through_price": 2780
+  },
+  {
+    "id": 103,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty103/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1198,
+    "line_through_price": 1414
+  },
+  {
+    "id": 104,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty104/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2317,
+    "line_through_price": 2734
+  },
+  {
+    "id": 105,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty105/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1443,
+    "line_through_price": 1703
+  },
+  {
+    "id": 106,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty106/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1633,
+    "line_through_price": 1927
+  },
+  {
+    "id": 107,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty107/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2061,
+    "line_through_price": 2432
+  },
+  {
+    "id": 108,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty108/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1791,
+    "line_through_price": 2113
+  },
+  {
+    "id": 109,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty109/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2268,
+    "line_through_price": 2676
+  },
+  {
+    "id": 110,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty110/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1997,
+    "line_through_price": 2356
+  },
+  {
+    "id": 111,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty111/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1557,
+    "line_through_price": 1837
+  },
+  {
+    "id": 112,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty112/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1349,
+    "line_through_price": 1592
+  },
+  {
+    "id": 113,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty113/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1520,
+    "line_through_price": 1794
+  },
+  {
+    "id": 114,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty114/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1150,
+    "line_through_price": 1357
+  },
+  {
+    "id": 115,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty115/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1227,
+    "line_through_price": 1448
+  },
+  {
+    "id": 116,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty116/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2056,
+    "line_through_price": 2426
+  },
+  {
+    "id": 117,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty117/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1852,
+    "line_through_price": 2185
+  },
+  {
+    "id": 118,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty118/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1943,
+    "line_through_price": 2293
+  },
+  {
+    "id": 119,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty119/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 638,
+    "line_through_price": 753
+  },
+  {
+    "id": 120,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty120/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1520,
+    "line_through_price": 1794
+  },
+  {
+    "id": 121,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty121/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1195,
+    "line_through_price": 1410
+  },
+  {
+    "id": 122,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty122/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2118,
+    "line_through_price": 2499
+  },
+  {
+    "id": 123,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty123/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 387,
+    "line_through_price": 457
+  },
+  {
+    "id": 124,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty124/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1059,
+    "line_through_price": 1250
+  },
+  {
+    "id": 125,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty125/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 673,
+    "line_through_price": 794
+  },
+  {
+    "id": 126,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty126/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 923,
+    "line_through_price": 1089
+  },
+  {
+    "id": 127,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty127/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2157,
+    "line_through_price": 2545
+  },
+  {
+    "id": 128,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty128/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 371,
+    "line_through_price": 438
+  },
+  {
+    "id": 129,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty129/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2198,
+    "line_through_price": 2594
+  },
+  {
+    "id": 130,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty130/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2478,
+    "line_through_price": 2924
+  },
+  {
+    "id": 131,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty131/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2459,
+    "line_through_price": 2902
+  },
+  {
+    "id": 132,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty132/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 626,
+    "line_through_price": 739
+  },
+  {
+    "id": 133,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty133/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2052,
+    "line_through_price": 2421
+  },
+  {
+    "id": 134,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty134/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 517,
+    "line_through_price": 610
+  },
+  {
+    "id": 135,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty135/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 265,
+    "line_through_price": 313
+  },
+  {
+    "id": 136,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty136/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1883,
+    "line_through_price": 2222
+  },
+  {
+    "id": 137,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty137/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1480,
+    "line_through_price": 1746
+  },
+  {
+    "id": 138,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty138/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 556,
+    "line_through_price": 656
+  },
+  {
+    "id": 139,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty139/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1092,
+    "line_through_price": 1289
+  },
+  {
+    "id": 140,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty140/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 695,
+    "line_through_price": 820
+  },
+  {
+    "id": 141,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty141/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2137,
+    "line_through_price": 2522
+  },
+  {
+    "id": 142,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty142/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1223,
+    "line_through_price": 1443
+  },
+  {
+    "id": 143,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty143/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2203,
+    "line_through_price": 2600
+  },
+  {
+    "id": 144,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty144/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 748,
+    "line_through_price": 883
+  },
+  {
+    "id": 145,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty145/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 224,
+    "line_through_price": 264
+  },
+  {
+    "id": 146,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty146/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2352,
+    "line_through_price": 2775
+  },
+  {
+    "id": 147,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty147/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 987,
+    "line_through_price": 1165
+  },
+  {
+    "id": 148,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty148/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1062,
+    "line_through_price": 1253
+  },
+  {
+    "id": 149,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty149/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 526,
+    "line_through_price": 621
+  },
+  {
+    "id": 150,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty150/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1670,
+    "line_through_price": 1971
+  },
+  {
+    "id": 151,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty151/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2276,
+    "line_through_price": 2686
+  },
+  {
+    "id": 152,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty152/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1203,
+    "line_through_price": 1420
+  },
+  {
+    "id": 153,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty153/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1154,
+    "line_through_price": 1362
+  },
+  {
+    "id": 154,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty154/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1905,
+    "line_through_price": 2248
+  },
+  {
+    "id": 155,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty155/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 874,
+    "line_through_price": 1031
+  },
+  {
+    "id": 156,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty156/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2449,
+    "line_through_price": 2890
+  },
+  {
+    "id": 157,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty157/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1531,
+    "line_through_price": 1807
+  },
+  {
+    "id": 158,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty158/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2448,
+    "line_through_price": 2889
+  },
+  {
+    "id": 159,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty159/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1573,
+    "line_through_price": 1856
+  },
+  {
+    "id": 160,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty160/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2301,
+    "line_through_price": 2715
+  },
+  {
+    "id": 161,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty161/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1175,
+    "line_through_price": 1386
+  },
+  {
+    "id": 162,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty162/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 319,
+    "line_through_price": 376
+  },
+  {
+    "id": 163,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty163/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1931,
+    "line_through_price": 2279
+  },
+  {
+    "id": 164,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty164/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 346,
+    "line_through_price": 408
+  },
+  {
+    "id": 165,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty165/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1440,
+    "line_through_price": 1699
+  },
+  {
+    "id": 166,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty166/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 571,
+    "line_through_price": 674
+  },
+  {
+    "id": 167,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty167/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1651,
+    "line_through_price": 1948
+  },
+  {
+    "id": 168,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty168/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1334,
+    "line_through_price": 1574
+  },
+  {
+    "id": 169,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty169/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 604,
+    "line_through_price": 713
+  },
+  {
+    "id": 170,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty170/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 782,
+    "line_through_price": 923
+  },
+  {
+    "id": 171,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty171/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1479,
+    "line_through_price": 1745
+  },
+  {
+    "id": 172,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty172/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 961,
+    "line_through_price": 1134
+  },
+  {
+    "id": 173,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty173/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 364,
+    "line_through_price": 430
+  },
+  {
+    "id": 174,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty174/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2319,
+    "line_through_price": 2736
+  },
+  {
+    "id": 175,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty175/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 997,
+    "line_through_price": 1176
+  },
+  {
+    "id": 176,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty176/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2299,
+    "line_through_price": 2713
+  },
+  {
+    "id": 177,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty177/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 433,
+    "line_through_price": 511
+  },
+  {
+    "id": 178,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty178/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1004,
+    "line_through_price": 1185
+  },
+  {
+    "id": 179,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty179/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2432,
+    "line_through_price": 2870
+  },
+  {
+    "id": 180,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty180/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 742,
+    "line_through_price": 876
+  },
+  {
+    "id": 181,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty181/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1667,
+    "line_through_price": 1967
+  },
+  {
+    "id": 182,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty182/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2403,
+    "line_through_price": 2836
+  },
+  {
+    "id": 183,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty183/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1983,
+    "line_through_price": 2340
+  },
+  {
+    "id": 184,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty184/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1108,
+    "line_through_price": 1307
+  },
+  {
+    "id": 185,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty185/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 673,
+    "line_through_price": 794
+  },
+  {
+    "id": 186,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty186/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1750,
+    "line_through_price": 2065
+  },
+  {
+    "id": 187,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty187/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2046,
+    "line_through_price": 2414
+  },
+  {
+    "id": 188,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty188/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 406,
+    "line_through_price": 479
+  },
+  {
+    "id": 189,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty189/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 590,
+    "line_through_price": 696
+  },
+  {
+    "id": 190,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty190/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 215,
+    "line_through_price": 254
+  },
+  {
+    "id": 191,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty191/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 432,
+    "line_through_price": 510
+  },
+  {
+    "id": 192,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty192/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 270,
+    "line_through_price": 319
+  },
+  {
+    "id": 193,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty193/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1562,
+    "line_through_price": 1843
+  },
+  {
+    "id": 194,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty194/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2265,
+    "line_through_price": 2673
+  },
+  {
+    "id": 195,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty195/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1563,
+    "line_through_price": 1844
+  },
+  {
+    "id": 196,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty196/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 789,
+    "line_through_price": 931
+  },
+  {
+    "id": 197,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty197/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1193,
+    "line_through_price": 1408
+  },
+  {
+    "id": 198,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty198/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 756,
+    "line_through_price": 892
+  },
+  {
+    "id": 199,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty199/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1112,
+    "line_through_price": 1312
+  },
+  {
+    "id": 200,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty200/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2100,
+    "line_through_price": 2478
+  },
+  {
+    "id": 201,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty201/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2497,
+    "line_through_price": 2946
+  },
+  {
+    "id": 202,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty202/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2282,
+    "line_through_price": 2693
+  },
+  {
+    "id": 203,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty203/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1393,
+    "line_through_price": 1644
+  },
+  {
+    "id": 204,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty204/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2054,
+    "line_through_price": 2424
+  },
+  {
+    "id": 205,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty205/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1959,
+    "line_through_price": 2312
+  },
+  {
+    "id": 206,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty206/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2224,
+    "line_through_price": 2624
+  },
+  {
+    "id": 207,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty207/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1208,
+    "line_through_price": 1425
+  },
+  {
+    "id": 208,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty208/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 334,
+    "line_through_price": 394
+  },
+  {
+    "id": 209,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty209/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2262,
+    "line_through_price": 2669
+  },
+  {
+    "id": 210,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty210/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2393,
+    "line_through_price": 2824
+  },
+  {
+    "id": 211,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty211/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 444,
+    "line_through_price": 524
+  },
+  {
+    "id": 212,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty212/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1130,
+    "line_through_price": 1333
+  },
+  {
+    "id": 213,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty213/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2479,
+    "line_through_price": 2925
+  },
+  {
+    "id": 214,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty214/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2417,
+    "line_through_price": 2852
+  },
+  {
+    "id": 215,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty215/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1348,
+    "line_through_price": 1591
+  },
+  {
+    "id": 216,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty216/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1302,
+    "line_through_price": 1536
+  },
+  {
+    "id": 217,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty217/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 797,
+    "line_through_price": 940
+  },
+  {
+    "id": 218,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty218/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 487,
+    "line_through_price": 575
+  },
+  {
+    "id": 219,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty219/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 217,
+    "line_through_price": 256
+  },
+  {
+    "id": 220,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty220/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 360,
+    "line_through_price": 425
+  },
+  {
+    "id": 221,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty221/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1005,
+    "line_through_price": 1186
+  },
+  {
+    "id": 222,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty222/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 297,
+    "line_through_price": 350
+  },
+  {
+    "id": 223,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty223/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1001,
+    "line_through_price": 1181
+  },
+  {
+    "id": 224,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty224/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1991,
+    "line_through_price": 2349
+  },
+  {
+    "id": 225,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty225/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 203,
+    "line_through_price": 240
+  },
+  {
+    "id": 226,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty226/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 745,
+    "line_through_price": 879
+  },
+  {
+    "id": 227,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty227/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1001,
+    "line_through_price": 1181
+  },
+  {
+    "id": 228,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty228/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 230,
+    "line_through_price": 271
+  },
+  {
+    "id": 229,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty229/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2307,
+    "line_through_price": 2722
+  },
+  {
+    "id": 230,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty230/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1265,
+    "line_through_price": 1493
+  },
+  {
+    "id": 231,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty231/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1891,
+    "line_through_price": 2231
+  },
+  {
+    "id": 232,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty232/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1302,
+    "line_through_price": 1536
+  },
+  {
+    "id": 233,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty233/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1141,
+    "line_through_price": 1346
+  },
+  {
+    "id": 234,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty234/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1660,
+    "line_through_price": 1959
+  },
+  {
+    "id": 235,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty235/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1349,
+    "line_through_price": 1592
+  },
+  {
+    "id": 236,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty236/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1275,
+    "line_through_price": 1504
+  },
+  {
+    "id": 237,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty237/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 570,
+    "line_through_price": 673
+  },
+  {
+    "id": 238,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty238/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2420,
+    "line_through_price": 2856
+  },
+  {
+    "id": 239,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty239/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2135,
+    "line_through_price": 2519
+  },
+  {
+    "id": 240,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty240/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2030,
+    "line_through_price": 2395
+  },
+  {
+    "id": 241,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty241/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 318,
+    "line_through_price": 375
+  },
+  {
+    "id": 242,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty242/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1548,
+    "line_through_price": 1827
+  },
+  {
+    "id": 243,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty243/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 661,
+    "line_through_price": 780
+  },
+  {
+    "id": 244,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty244/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2052,
+    "line_through_price": 2421
+  },
+  {
+    "id": 245,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty245/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 522,
+    "line_through_price": 616
+  },
+  {
+    "id": 246,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty246/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 250,
+    "line_through_price": 295
+  },
+  {
+    "id": 247,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty247/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 664,
+    "line_through_price": 784
+  },
+  {
+    "id": 248,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty248/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 657,
+    "line_through_price": 775
+  },
+  {
+    "id": 249,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty249/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1941,
+    "line_through_price": 2290
+  },
+  {
+    "id": 250,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty250/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 862,
+    "line_through_price": 1017
+  },
+  {
+    "id": 251,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty251/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1474,
+    "line_through_price": 1739
+  },
+  {
+    "id": 252,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty252/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1079,
+    "line_through_price": 1273
+  },
+  {
+    "id": 253,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty253/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 519,
+    "line_through_price": 612
+  },
+  {
+    "id": 254,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty254/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2001,
+    "line_through_price": 2361
+  },
+  {
+    "id": 255,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty255/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2096,
+    "line_through_price": 2473
+  },
+  {
+    "id": 256,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty256/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2360,
+    "line_through_price": 2785
+  },
+  {
+    "id": 257,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty257/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 709,
+    "line_through_price": 837
+  },
+  {
+    "id": 258,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty258/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1724,
+    "line_through_price": 2034
+  },
+  {
+    "id": 259,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty259/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2362,
+    "line_through_price": 2787
+  },
+  {
+    "id": 260,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty260/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 666,
+    "line_through_price": 786
+  },
+  {
+    "id": 261,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty261/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1374,
+    "line_through_price": 1621
+  },
+  {
+    "id": 262,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty262/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 597,
+    "line_through_price": 704
+  },
+  {
+    "id": 263,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty263/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 945,
+    "line_through_price": 1115
+  },
+  {
+    "id": 264,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty264/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1713,
+    "line_through_price": 2021
+  },
+  {
+    "id": 265,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty265/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1229,
+    "line_through_price": 1450
+  },
+  {
+    "id": 266,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty266/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1971,
+    "line_through_price": 2326
+  },
+  {
+    "id": 267,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty267/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1797,
+    "line_through_price": 2120
+  },
+  {
+    "id": 268,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty268/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1995,
+    "line_through_price": 2354
+  },
+  {
+    "id": 269,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty269/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1801,
+    "line_through_price": 2125
+  },
+  {
+    "id": 270,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty270/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1734,
+    "line_through_price": 2046
+  },
+  {
+    "id": 271,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty271/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 354,
+    "line_through_price": 418
+  },
+  {
+    "id": 272,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty272/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2180,
+    "line_through_price": 2572
+  },
+  {
+    "id": 273,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty273/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 673,
+    "line_through_price": 794
+  },
+  {
+    "id": 274,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty274/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 957,
+    "line_through_price": 1129
+  },
+  {
+    "id": 275,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty275/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1672,
+    "line_through_price": 1973
+  },
+  {
+    "id": 276,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty276/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 360,
+    "line_through_price": 425
+  },
+  {
+    "id": 277,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty277/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 653,
+    "line_through_price": 771
+  },
+  {
+    "id": 278,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty278/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 722,
+    "line_through_price": 852
+  },
+  {
+    "id": 279,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty279/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 843,
+    "line_through_price": 995
+  },
+  {
+    "id": 280,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty280/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1195,
+    "line_through_price": 1410
+  },
+  {
+    "id": 281,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty281/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1952,
+    "line_through_price": 2303
+  },
+  {
+    "id": 282,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty282/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2031,
+    "line_through_price": 2397
+  },
+  {
+    "id": 283,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty283/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 894,
+    "line_through_price": 1055
+  },
+  {
+    "id": 284,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty284/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1274,
+    "line_through_price": 1503
+  },
+  {
+    "id": 285,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty285/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1102,
+    "line_through_price": 1300
+  },
+  {
+    "id": 286,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty286/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1391,
+    "line_through_price": 1641
+  },
+  {
+    "id": 287,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty287/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 445,
+    "line_through_price": 525
+  },
+  {
+    "id": 288,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty288/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 575,
+    "line_through_price": 678
+  },
+  {
+    "id": 289,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty289/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1383,
+    "line_through_price": 1632
+  },
+  {
+    "id": 290,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty290/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1836,
+    "line_through_price": 2166
+  },
+  {
+    "id": 291,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty291/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2300,
+    "line_through_price": 2714
+  },
+  {
+    "id": 292,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty292/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1642,
+    "line_through_price": 1938
+  },
+  {
+    "id": 293,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty293/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2437,
+    "line_through_price": 2876
+  },
+  {
+    "id": 294,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty294/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 239,
+    "line_through_price": 282
+  },
+  {
+    "id": 295,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty295/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1388,
+    "line_through_price": 1638
+  },
+  {
+    "id": 296,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty296/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1870,
+    "line_through_price": 2207
+  },
+  {
+    "id": 297,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty297/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1263,
+    "line_through_price": 1490
+  },
+  {
+    "id": 298,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty298/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 555,
+    "line_through_price": 655
+  },
+  {
+    "id": 299,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty299/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2374,
+    "line_through_price": 2801
+  },
+  {
+    "id": 300,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty300/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1258,
+    "line_through_price": 1484
+  },
+  {
+    "id": 301,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty301/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1594,
+    "line_through_price": 1881
+  },
+  {
+    "id": 302,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty302/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2092,
+    "line_through_price": 2469
+  },
+  {
+    "id": 303,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty303/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 682,
+    "line_through_price": 805
+  },
+  {
+    "id": 304,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty304/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 899,
+    "line_through_price": 1061
+  },
+  {
+    "id": 305,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty305/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1656,
+    "line_through_price": 1954
+  },
+  {
+    "id": 306,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty306/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 425,
+    "line_through_price": 502
+  },
+  {
+    "id": 307,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty307/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 981,
+    "line_through_price": 1158
+  },
+  {
+    "id": 308,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty308/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1264,
+    "line_through_price": 1492
+  },
+  {
+    "id": 309,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty309/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1964,
+    "line_through_price": 2318
+  },
+  {
+    "id": 310,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty310/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 252,
+    "line_through_price": 297
+  },
+  {
+    "id": 311,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty311/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1096,
+    "line_through_price": 1293
+  },
+  {
+    "id": 312,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty312/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1438,
+    "line_through_price": 1697
+  },
+  {
+    "id": 313,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty313/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 226,
+    "line_through_price": 267
+  },
+  {
+    "id": 314,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty314/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1348,
+    "line_through_price": 1591
+  },
+  {
+    "id": 315,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty315/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 465,
+    "line_through_price": 549
+  },
+  {
+    "id": 316,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty316/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 206,
+    "line_through_price": 243
+  },
+  {
+    "id": 317,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty317/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1937,
+    "line_through_price": 2286
+  },
+  {
+    "id": 318,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty318/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 284,
+    "line_through_price": 335
+  },
+  {
+    "id": 319,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty319/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1207,
+    "line_through_price": 1424
+  },
+  {
+    "id": 320,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty320/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 932,
+    "line_through_price": 1100
+  },
+  {
+    "id": 321,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty321/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 391,
+    "line_through_price": 461
+  },
+  {
+    "id": 322,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty322/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2037,
+    "line_through_price": 2404
+  },
+  {
+    "id": 323,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty323/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 779,
+    "line_through_price": 919
+  },
+  {
+    "id": 324,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty324/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1039,
+    "line_through_price": 1226
+  },
+  {
+    "id": 325,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty325/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1652,
+    "line_through_price": 1949
+  },
+  {
+    "id": 326,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty326/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 709,
+    "line_through_price": 837
+  },
+  {
+    "id": 327,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty327/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1837,
+    "line_through_price": 2168
+  },
+  {
+    "id": 328,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty328/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1701,
+    "line_through_price": 2007
+  },
+  {
+    "id": 329,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty329/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 879,
+    "line_through_price": 1037
+  },
+  {
+    "id": 330,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty330/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2149,
+    "line_through_price": 2536
+  },
+  {
+    "id": 331,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty331/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 883,
+    "line_through_price": 1042
+  },
+  {
+    "id": 332,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty332/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2213,
+    "line_through_price": 2611
+  },
+  {
+    "id": 333,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty333/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1724,
+    "line_through_price": 2034
+  },
+  {
+    "id": 334,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty334/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1181,
+    "line_through_price": 1394
+  },
+  {
+    "id": 335,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty335/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 423,
+    "line_through_price": 499
+  },
+  {
+    "id": 336,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty336/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1806,
+    "line_through_price": 2131
+  },
+  {
+    "id": 337,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty337/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 701,
+    "line_through_price": 827
+  },
+  {
+    "id": 338,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty338/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1390,
+    "line_through_price": 1640
+  },
+  {
+    "id": 339,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty339/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 763,
+    "line_through_price": 900
+  },
+  {
+    "id": 340,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty340/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 485,
+    "line_through_price": 572
+  },
+  {
+    "id": 341,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty341/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1388,
+    "line_through_price": 1638
+  },
+  {
+    "id": 342,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty342/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 267,
+    "line_through_price": 315
+  },
+  {
+    "id": 343,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty343/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1023,
+    "line_through_price": 1207
+  },
+  {
+    "id": 344,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty344/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 256,
+    "line_through_price": 302
+  },
+  {
+    "id": 345,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty345/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1687,
+    "line_through_price": 1991
+  },
+  {
+    "id": 346,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty346/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1984,
+    "line_through_price": 2341
+  },
+  {
+    "id": 347,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty347/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 550,
+    "line_through_price": 649
+  },
+  {
+    "id": 348,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty348/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2186,
+    "line_through_price": 2579
+  },
+  {
+    "id": 349,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty349/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1496,
+    "line_through_price": 1765
+  },
+  {
+    "id": 350,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty350/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2452,
+    "line_through_price": 2893
+  },
+  {
+    "id": 351,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty351/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 474,
+    "line_through_price": 559
+  },
+  {
+    "id": 352,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty352/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2222,
+    "line_through_price": 2622
+  },
+  {
+    "id": 353,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty353/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 246,
+    "line_through_price": 290
+  },
+  {
+    "id": 354,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty354/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1254,
+    "line_through_price": 1480
+  },
+  {
+    "id": 355,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty355/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1467,
+    "line_through_price": 1731
+  },
+  {
+    "id": 356,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty356/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1894,
+    "line_through_price": 2235
+  },
+  {
+    "id": 357,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty357/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1525,
+    "line_through_price": 1800
+  },
+  {
+    "id": 358,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty358/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 287,
+    "line_through_price": 339
+  },
+  {
+    "id": 359,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty359/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1365,
+    "line_through_price": 1611
+  },
+  {
+    "id": 360,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty360/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 846,
+    "line_through_price": 998
+  },
+  {
+    "id": 361,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty361/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2297,
+    "line_through_price": 2710
+  },
+  {
+    "id": 362,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty362/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1004,
+    "line_through_price": 1185
+  },
+  {
+    "id": 363,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty363/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1866,
+    "line_through_price": 2202
+  },
+  {
+    "id": 364,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty364/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1576,
+    "line_through_price": 1860
+  },
+  {
+    "id": 365,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty365/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1813,
+    "line_through_price": 2139
+  },
+  {
+    "id": 366,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty366/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2120,
+    "line_through_price": 2502
+  },
+  {
+    "id": 367,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty367/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 750,
+    "line_through_price": 885
+  },
+  {
+    "id": 368,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty368/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1735,
+    "line_through_price": 2047
+  },
+  {
+    "id": 369,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty369/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1348,
+    "line_through_price": 1591
+  },
+  {
+    "id": 370,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty370/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1231,
+    "line_through_price": 1453
+  },
+  {
+    "id": 371,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty371/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2113,
+    "line_through_price": 2493
+  },
+  {
+    "id": 372,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty372/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 761,
+    "line_through_price": 898
+  },
+  {
+    "id": 373,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty373/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 212,
+    "line_through_price": 250
+  },
+  {
+    "id": 374,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty374/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 247,
+    "line_through_price": 291
+  },
+  {
+    "id": 375,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty375/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1692,
+    "line_through_price": 1997
+  },
+  {
+    "id": 376,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty376/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 664,
+    "line_through_price": 784
+  },
+  {
+    "id": 377,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty377/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2288,
+    "line_through_price": 2700
+  },
+  {
+    "id": 378,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty378/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 526,
+    "line_through_price": 621
+  },
+  {
+    "id": 379,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty379/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 823,
+    "line_through_price": 971
+  },
+  {
+    "id": 380,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty380/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 894,
+    "line_through_price": 1055
+  },
+  {
+    "id": 381,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty381/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1294,
+    "line_through_price": 1527
+  },
+  {
+    "id": 382,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty382/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1533,
+    "line_through_price": 1809
+  },
+  {
+    "id": 383,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty383/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2445,
+    "line_through_price": 2885
+  },
+  {
+    "id": 384,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty384/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2025,
+    "line_through_price": 2390
+  },
+  {
+    "id": 385,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty385/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1138,
+    "line_through_price": 1343
+  },
+  {
+    "id": 386,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty386/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1705,
+    "line_through_price": 2012
+  },
+  {
+    "id": 387,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty387/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2462,
+    "line_through_price": 2905
+  },
+  {
+    "id": 388,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty388/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 562,
+    "line_through_price": 663
+  },
+  {
+    "id": 389,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty389/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2384,
+    "line_through_price": 2813
+  },
+  {
+    "id": 390,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty390/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1469,
+    "line_through_price": 1733
+  },
+  {
+    "id": 391,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty391/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1675,
+    "line_through_price": 1976
+  },
+  {
+    "id": 392,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty392/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1901,
+    "line_through_price": 2243
+  },
+  {
+    "id": 393,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty393/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 834,
+    "line_through_price": 984
+  },
+  {
+    "id": 394,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty394/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 909,
+    "line_through_price": 1073
+  },
+  {
+    "id": 395,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty395/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1723,
+    "line_through_price": 2033
+  },
+  {
+    "id": 396,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty396/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1927,
+    "line_through_price": 2274
+  },
+  {
+    "id": 397,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty397/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1106,
+    "line_through_price": 1305
+  },
+  {
+    "id": 398,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty398/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 223,
+    "line_through_price": 263
+  },
+  {
+    "id": 399,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty399/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1368,
+    "line_through_price": 1614
+  },
+  {
+    "id": 400,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty400/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1989,
+    "line_through_price": 2347
+  },
+  {
+    "id": 401,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty401/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2044,
+    "line_through_price": 2412
+  },
+  {
+    "id": 402,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty402/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2488,
+    "line_through_price": 2936
+  },
+  {
+    "id": 403,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty403/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2055,
+    "line_through_price": 2425
+  },
+  {
+    "id": 404,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty404/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 701,
+    "line_through_price": 827
+  },
+  {
+    "id": 405,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty405/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 468,
+    "line_through_price": 552
+  },
+  {
+    "id": 406,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty406/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2251,
+    "line_through_price": 2656
+  },
+  {
+    "id": 407,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty407/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1078,
+    "line_through_price": 1272
+  },
+  {
+    "id": 408,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty408/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 335,
+    "line_through_price": 395
+  },
+  {
+    "id": 409,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty409/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2442,
+    "line_through_price": 2882
+  },
+  {
+    "id": 410,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty410/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 642,
+    "line_through_price": 758
+  },
+  {
+    "id": 411,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty411/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 876,
+    "line_through_price": 1034
+  },
+  {
+    "id": 412,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty412/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 744,
+    "line_through_price": 878
+  },
+  {
+    "id": 413,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty413/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1133,
+    "line_through_price": 1337
+  },
+  {
+    "id": 414,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty414/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 246,
+    "line_through_price": 290
+  },
+  {
+    "id": 415,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty415/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 829,
+    "line_through_price": 978
+  },
+  {
+    "id": 416,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty416/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1247,
+    "line_through_price": 1471
+  },
+  {
+    "id": 417,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty417/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1111,
+    "line_through_price": 1311
+  },
+  {
+    "id": 418,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty418/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2033,
+    "line_through_price": 2399
+  },
+  {
+    "id": 419,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty419/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2137,
+    "line_through_price": 2522
+  },
+  {
+    "id": 420,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty420/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1753,
+    "line_through_price": 2069
+  },
+  {
+    "id": 421,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty421/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1600,
+    "line_through_price": 1888
+  },
+  {
+    "id": 422,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty422/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2411,
+    "line_through_price": 2845
+  },
+  {
+    "id": 423,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty423/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1795,
+    "line_through_price": 2118
+  },
+  {
+    "id": 424,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty424/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2182,
+    "line_through_price": 2575
+  },
+  {
+    "id": 425,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty425/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 807,
+    "line_through_price": 952
+  },
+  {
+    "id": 426,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty426/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1259,
+    "line_through_price": 1486
+  },
+  {
+    "id": 427,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty427/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2307,
+    "line_through_price": 2722
+  },
+  {
+    "id": 428,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty428/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2169,
+    "line_through_price": 2559
+  },
+  {
+    "id": 429,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty429/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1143,
+    "line_through_price": 1349
+  },
+  {
+    "id": 430,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty430/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1395,
+    "line_through_price": 1646
+  },
+  {
+    "id": 431,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty431/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2067,
+    "line_through_price": 2439
+  },
+  {
+    "id": 432,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty432/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 436,
+    "line_through_price": 514
+  },
+  {
+    "id": 433,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty433/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 874,
+    "line_through_price": 1031
+  },
+  {
+    "id": 434,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty434/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2089,
+    "line_through_price": 2465
+  },
+  {
+    "id": 435,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty435/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 567,
+    "line_through_price": 669
+  },
+  {
+    "id": 436,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty436/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2077,
+    "line_through_price": 2451
+  },
+  {
+    "id": 437,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty437/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 240,
+    "line_through_price": 283
+  },
+  {
+    "id": 438,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty438/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 456,
+    "line_through_price": 538
+  },
+  {
+    "id": 439,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty439/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1274,
+    "line_through_price": 1503
+  },
+  {
+    "id": 440,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty440/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1284,
+    "line_through_price": 1515
+  },
+  {
+    "id": 441,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty441/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1497,
+    "line_through_price": 1766
+  },
+  {
+    "id": 442,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty442/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1034,
+    "line_through_price": 1220
+  },
+  {
+    "id": 443,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty443/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 750,
+    "line_through_price": 885
+  },
+  {
+    "id": 444,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty444/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 336,
+    "line_through_price": 396
+  },
+  {
+    "id": 445,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty445/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1848,
+    "line_through_price": 2181
+  },
+  {
+    "id": 446,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty446/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 771,
+    "line_through_price": 910
+  },
+  {
+    "id": 447,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty447/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2053,
+    "line_through_price": 2423
+  },
+  {
+    "id": 448,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty448/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 517,
+    "line_through_price": 610
+  },
+  {
+    "id": 449,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty449/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1063,
+    "line_through_price": 1254
+  },
+  {
+    "id": 450,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty450/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2235,
+    "line_through_price": 2637
+  },
+  {
+    "id": 451,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty451/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2173,
+    "line_through_price": 2564
+  },
+  {
+    "id": 452,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty452/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1556,
+    "line_through_price": 1836
+  },
+  {
+    "id": 453,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty453/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1125,
+    "line_through_price": 1328
+  },
+  {
+    "id": 454,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty454/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 328,
+    "line_through_price": 387
+  },
+  {
+    "id": 455,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty455/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2341,
+    "line_through_price": 2762
+  },
+  {
+    "id": 456,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty456/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 900,
+    "line_through_price": 1062
+  },
+  {
+    "id": 457,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty457/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1168,
+    "line_through_price": 1378
+  },
+  {
+    "id": 458,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty458/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1606,
+    "line_through_price": 1895
+  },
+  {
+    "id": 459,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty459/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1961,
+    "line_through_price": 2314
+  },
+  {
+    "id": 460,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty460/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1265,
+    "line_through_price": 1493
+  },
+  {
+    "id": 461,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty461/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1737,
+    "line_through_price": 2050
+  },
+  {
+    "id": 462,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty462/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 457,
+    "line_through_price": 539
+  },
+  {
+    "id": 463,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty463/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2445,
+    "line_through_price": 2885
+  },
+  {
+    "id": 464,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty464/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 653,
+    "line_through_price": 771
+  },
+  {
+    "id": 465,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty465/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1087,
+    "line_through_price": 1283
+  },
+  {
+    "id": 466,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty466/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1974,
+    "line_through_price": 2329
+  },
+  {
+    "id": 467,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty467/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1344,
+    "line_through_price": 1586
+  },
+  {
+    "id": 468,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty468/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2157,
+    "line_through_price": 2545
+  },
+  {
+    "id": 469,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty469/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 996,
+    "line_through_price": 1175
+  },
+  {
+    "id": 470,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty470/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 372,
+    "line_through_price": 439
+  },
+  {
+    "id": 471,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty471/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1634,
+    "line_through_price": 1928
+  },
+  {
+    "id": 472,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty472/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1083,
+    "line_through_price": 1278
+  },
+  {
+    "id": 473,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty473/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 984,
+    "line_through_price": 1161
+  },
+  {
+    "id": 474,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty474/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1030,
+    "line_through_price": 1215
+  },
+  {
+    "id": 475,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty475/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 838,
+    "line_through_price": 989
+  },
+  {
+    "id": 476,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty476/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1466,
+    "line_through_price": 1730
+  },
+  {
+    "id": 477,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty477/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1723,
+    "line_through_price": 2033
+  },
+  {
+    "id": 478,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty478/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 332,
+    "line_through_price": 392
+  },
+  {
+    "id": 479,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty479/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 402,
+    "line_through_price": 474
+  },
+  {
+    "id": 480,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty480/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1914,
+    "line_through_price": 2259
+  },
+  {
+    "id": 481,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty481/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 479,
+    "line_through_price": 565
+  },
+  {
+    "id": 482,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty482/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 727,
+    "line_through_price": 858
+  },
+  {
+    "id": 483,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty483/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2390,
+    "line_through_price": 2820
+  },
+  {
+    "id": 484,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty484/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1039,
+    "line_through_price": 1226
+  },
+  {
+    "id": 485,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty485/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 472,
+    "line_through_price": 557
+  },
+  {
+    "id": 486,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty486/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1634,
+    "line_through_price": 1928
+  },
+  {
+    "id": 487,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty487/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1313,
+    "line_through_price": 1549
+  },
+  {
+    "id": 488,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty488/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2471,
+    "line_through_price": 2916
+  },
+  {
+    "id": 489,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty489/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 814,
+    "line_through_price": 961
+  },
+  {
+    "id": 490,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty490/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1801,
+    "line_through_price": 2125
+  },
+  {
+    "id": 491,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty491/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1254,
+    "line_through_price": 1480
+  },
+  {
+    "id": 492,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty492/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 793,
+    "line_through_price": 936
+  },
+  {
+    "id": 493,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty493/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1928,
+    "line_through_price": 2275
+  },
+  {
+    "id": 494,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty494/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1084,
+    "line_through_price": 1279
+  },
+  {
+    "id": 495,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty495/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 901,
+    "line_through_price": 1063
+  },
+  {
+    "id": 496,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty496/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 506,
+    "line_through_price": 597
+  },
+  {
+    "id": 497,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty497/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 686,
+    "line_through_price": 809
+  },
+  {
+    "id": 498,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty498/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 313,
+    "line_through_price": 369
+  },
+  {
+    "id": 499,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty499/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1797,
+    "line_through_price": 2120
+  },
+  {
+    "id": 500,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty500/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 959,
+    "line_through_price": 1132
+  },
+  {
+    "id": 501,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty501/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2244,
+    "line_through_price": 2648
+  },
+  {
+    "id": 502,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty502/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1194,
+    "line_through_price": 1409
+  },
+  {
+    "id": 503,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty503/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 409,
+    "line_through_price": 483
+  },
+  {
+    "id": 504,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty504/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1792,
+    "line_through_price": 2115
+  },
+  {
+    "id": 505,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty505/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1311,
+    "line_through_price": 1547
+  },
+  {
+    "id": 506,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty506/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2103,
+    "line_through_price": 2482
+  },
+  {
+    "id": 507,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty507/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1959,
+    "line_through_price": 2312
+  },
+  {
+    "id": 508,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty508/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1670,
+    "line_through_price": 1971
+  },
+  {
+    "id": 509,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty509/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1956,
+    "line_through_price": 2308
+  },
+  {
+    "id": 510,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty510/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 316,
+    "line_through_price": 373
+  },
+  {
+    "id": 511,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty511/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1725,
+    "line_through_price": 2036
+  },
+  {
+    "id": 512,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty512/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1544,
+    "line_through_price": 1822
+  },
+  {
+    "id": 513,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty513/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 813,
+    "line_through_price": 959
+  },
+  {
+    "id": 514,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty514/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1063,
+    "line_through_price": 1254
+  },
+  {
+    "id": 515,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty515/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 213,
+    "line_through_price": 251
+  },
+  {
+    "id": 516,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty516/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1800,
+    "line_through_price": 2124
+  },
+  {
+    "id": 517,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty517/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1623,
+    "line_through_price": 1915
+  },
+  {
+    "id": 518,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty518/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1770,
+    "line_through_price": 2089
+  },
+  {
+    "id": 519,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty519/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 872,
+    "line_through_price": 1029
+  },
+  {
+    "id": 520,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty520/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1434,
+    "line_through_price": 1692
+  },
+  {
+    "id": 521,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty521/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 703,
+    "line_through_price": 830
+  },
+  {
+    "id": 522,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty522/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 441,
+    "line_through_price": 520
+  },
+  {
+    "id": 523,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty523/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 332,
+    "line_through_price": 392
+  },
+  {
+    "id": 524,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty524/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1586,
+    "line_through_price": 1871
+  },
+  {
+    "id": 525,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty525/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1478,
+    "line_through_price": 1744
+  },
+  {
+    "id": 526,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty526/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 326,
+    "line_through_price": 385
+  },
+  {
+    "id": 527,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty527/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1737,
+    "line_through_price": 2050
+  },
+  {
+    "id": 528,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty528/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1566,
+    "line_through_price": 1848
+  },
+  {
+    "id": 529,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty529/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1833,
+    "line_through_price": 2163
+  },
+  {
+    "id": 530,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty530/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 711,
+    "line_through_price": 839
+  },
+  {
+    "id": 531,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty531/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1795,
+    "line_through_price": 2118
+  },
+  {
+    "id": 532,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty532/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2074,
+    "line_through_price": 2447
+  },
+  {
+    "id": 533,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty533/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1907,
+    "line_through_price": 2250
+  },
+  {
+    "id": 534,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty534/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1120,
+    "line_through_price": 1322
+  },
+  {
+    "id": 535,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty535/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1054,
+    "line_through_price": 1244
+  },
+  {
+    "id": 536,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty536/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 403,
+    "line_through_price": 476
+  },
+  {
+    "id": 537,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty537/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2294,
+    "line_through_price": 2707
+  },
+  {
+    "id": 538,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty538/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1053,
+    "line_through_price": 1243
+  },
+  {
+    "id": 539,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty539/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 732,
+    "line_through_price": 864
+  },
+  {
+    "id": 540,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty540/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2373,
+    "line_through_price": 2800
+  },
+  {
+    "id": 541,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty541/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1791,
+    "line_through_price": 2113
+  },
+  {
+    "id": 542,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty542/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1021,
+    "line_through_price": 1205
+  },
+  {
+    "id": 543,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty543/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2156,
+    "line_through_price": 2544
+  },
+  {
+    "id": 544,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty544/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2399,
+    "line_through_price": 2831
+  },
+  {
+    "id": 545,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty545/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 203,
+    "line_through_price": 240
+  },
+  {
+    "id": 546,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty546/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1079,
+    "line_through_price": 1273
+  },
+  {
+    "id": 547,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty547/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2267,
+    "line_through_price": 2675
+  },
+  {
+    "id": 548,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty548/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1877,
+    "line_through_price": 2215
+  },
+  {
+    "id": 549,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty549/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1832,
+    "line_through_price": 2162
+  },
+  {
+    "id": 550,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty550/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 414,
+    "line_through_price": 489
+  },
+  {
+    "id": 551,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty551/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 762,
+    "line_through_price": 899
+  },
+  {
+    "id": 552,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty552/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1020,
+    "line_through_price": 1204
+  },
+  {
+    "id": 553,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty553/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1271,
+    "line_through_price": 1500
+  },
+  {
+    "id": 554,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty554/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 583,
+    "line_through_price": 688
+  },
+  {
+    "id": 555,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty555/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 292,
+    "line_through_price": 345
+  },
+  {
+    "id": 556,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty556/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 580,
+    "line_through_price": 684
+  },
+  {
+    "id": 557,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty557/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1688,
+    "line_through_price": 1992
+  },
+  {
+    "id": 558,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty558/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1278,
+    "line_through_price": 1508
+  },
+  {
+    "id": 559,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty559/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1074,
+    "line_through_price": 1267
+  },
+  {
+    "id": 560,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty560/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 687,
+    "line_through_price": 811
+  },
+  {
+    "id": 561,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty561/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 375,
+    "line_through_price": 442
+  },
+  {
+    "id": 562,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty562/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1496,
+    "line_through_price": 1765
+  },
+  {
+    "id": 563,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty563/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2274,
+    "line_through_price": 2683
+  },
+  {
+    "id": 564,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty564/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1949,
+    "line_through_price": 2300
+  },
+  {
+    "id": 565,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty565/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 408,
+    "line_through_price": 481
+  },
+  {
+    "id": 566,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty566/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1762,
+    "line_through_price": 2079
+  },
+  {
+    "id": 567,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty567/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 210,
+    "line_through_price": 248
+  },
+  {
+    "id": 568,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty568/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2038,
+    "line_through_price": 2405
+  },
+  {
+    "id": 569,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty569/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2139,
+    "line_through_price": 2524
+  },
+  {
+    "id": 570,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty570/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1760,
+    "line_through_price": 2077
+  },
+  {
+    "id": 571,
+    "name": "Glow Artificial Nails",
+    "image": "https://picsum.photos/seed/beauty571/400/400",
+    "description": "High-quality artificial nails designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 235,
+    "line_through_price": 277
+  },
+  {
+    "id": 572,
+    "name": "Radiant Attar",
+    "image": "https://picsum.photos/seed/beauty572/400/400",
+    "description": "High-quality attar designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1144,
+    "line_through_price": 1350
+  },
+  {
+    "id": 573,
+    "name": "Luxury Bathing Soaps",
+    "image": "https://picsum.photos/seed/beauty573/400/400",
+    "description": "High-quality bathing soaps designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2318,
+    "line_through_price": 2735
+  },
+  {
+    "id": 574,
+    "name": "Daily Blush",
+    "image": "https://picsum.photos/seed/beauty574/400/400",
+    "description": "High-quality blush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 269,
+    "line_through_price": 317
+  },
+  {
+    "id": 575,
+    "name": "Pro Body Lotion & Cream",
+    "image": "https://picsum.photos/seed/beauty575/400/400",
+    "description": "High-quality body lotion & cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1982,
+    "line_through_price": 2339
+  },
+  {
+    "id": 576,
+    "name": "Velvet Compact",
+    "image": "https://picsum.photos/seed/beauty576/400/400",
+    "description": "High-quality compact designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1428,
+    "line_through_price": 1685
+  },
+  {
+    "id": 577,
+    "name": "Pure Concealer",
+    "image": "https://picsum.photos/seed/beauty577/400/400",
+    "description": "High-quality concealer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 743,
+    "line_through_price": 877
+  },
+  {
+    "id": 578,
+    "name": "Natural Eyeliner",
+    "image": "https://picsum.photos/seed/beauty578/400/400",
+    "description": "High-quality eyeliner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1604,
+    "line_through_price": 1893
+  },
+  {
+    "id": 579,
+    "name": "Silk Eyeshadow",
+    "image": "https://picsum.photos/seed/beauty579/400/400",
+    "description": "High-quality eyeshadow designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2488,
+    "line_through_price": 2936
+  },
+  {
+    "id": 580,
+    "name": "Fresh Face Cream",
+    "image": "https://picsum.photos/seed/beauty580/400/400",
+    "description": "High-quality face cream designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1088,
+    "line_through_price": 1284
+  },
+  {
+    "id": 581,
+    "name": "Glow Face Wash",
+    "image": "https://picsum.photos/seed/beauty581/400/400",
+    "description": "High-quality face wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 741,
+    "line_through_price": 874
+  },
+  {
+    "id": 582,
+    "name": "Radiant Foundation",
+    "image": "https://picsum.photos/seed/beauty582/400/400",
+    "description": "High-quality foundation designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 448,
+    "line_through_price": 529
+  },
+  {
+    "id": 583,
+    "name": "Luxury Hair Serum",
+    "image": "https://picsum.photos/seed/beauty583/400/400",
+    "description": "High-quality hair serum designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 942,
+    "line_through_price": 1112
+  },
+  {
+    "id": 584,
+    "name": "Daily Lip Balm",
+    "image": "https://picsum.photos/seed/beauty584/400/400",
+    "description": "High-quality lip balm designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1093,
+    "line_through_price": 1290
+  },
+  {
+    "id": 585,
+    "name": "Pro Lipstick",
+    "image": "https://picsum.photos/seed/beauty585/400/400",
+    "description": "High-quality lipstick designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1702,
+    "line_through_price": 2008
+  },
+  {
+    "id": 586,
+    "name": "Velvet Mascara",
+    "image": "https://picsum.photos/seed/beauty586/400/400",
+    "description": "High-quality mascara designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 258,
+    "line_through_price": 304
+  },
+  {
+    "id": 587,
+    "name": "Pure Moisturizer",
+    "image": "https://picsum.photos/seed/beauty587/400/400",
+    "description": "High-quality moisturizer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2163,
+    "line_through_price": 2552
+  },
+  {
+    "id": 588,
+    "name": "Natural Nail Polish",
+    "image": "https://picsum.photos/seed/beauty588/400/400",
+    "description": "High-quality nail polish designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2135,
+    "line_through_price": 2519
+  },
+  {
+    "id": 589,
+    "name": "Silk Perfume",
+    "image": "https://picsum.photos/seed/beauty589/400/400",
+    "description": "High-quality perfume designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 956,
+    "line_through_price": 1128
+  },
+  {
+    "id": 590,
+    "name": "Fresh Shampoo",
+    "image": "https://picsum.photos/seed/beauty590/400/400",
+    "description": "High-quality shampoo designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 666,
+    "line_through_price": 786
+  },
+  {
+    "id": 591,
+    "name": "Glow Conditioner",
+    "image": "https://picsum.photos/seed/beauty591/400/400",
+    "description": "High-quality conditioner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1686,
+    "line_through_price": 1989
+  },
+  {
+    "id": 592,
+    "name": "Radiant Sunscreen",
+    "image": "https://picsum.photos/seed/beauty592/400/400",
+    "description": "High-quality sunscreen designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2206,
+    "line_through_price": 2603
+  },
+  {
+    "id": 593,
+    "name": "Luxury Toner",
+    "image": "https://picsum.photos/seed/beauty593/400/400",
+    "description": "High-quality toner designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 839,
+    "line_through_price": 990
+  },
+  {
+    "id": 594,
+    "name": "Daily Primer",
+    "image": "https://picsum.photos/seed/beauty594/400/400",
+    "description": "High-quality primer designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1580,
+    "line_through_price": 1864
+  },
+  {
+    "id": 595,
+    "name": "Pro Makeup Brush",
+    "image": "https://picsum.photos/seed/beauty595/400/400",
+    "description": "High-quality makeup brush designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2440,
+    "line_through_price": 2879
+  },
+  {
+    "id": 596,
+    "name": "Velvet Highlighter",
+    "image": "https://picsum.photos/seed/beauty596/400/400",
+    "description": "High-quality highlighter designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 2374,
+    "line_through_price": 2801
+  },
+  {
+    "id": 597,
+    "name": "Pure Kajal",
+    "image": "https://picsum.photos/seed/beauty597/400/400",
+    "description": "High-quality kajal designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1145,
+    "line_through_price": 1351
+  },
+  {
+    "id": 598,
+    "name": "Natural Makeup Remover",
+    "image": "https://picsum.photos/seed/beauty598/400/400",
+    "description": "High-quality makeup remover designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1954,
+    "line_through_price": 2306
+  },
+  {
+    "id": 599,
+    "name": "Silk Body Wash",
+    "image": "https://picsum.photos/seed/beauty599/400/400",
+    "description": "High-quality body wash designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 785,
+    "line_through_price": 926
+  },
+  {
+    "id": 600,
+    "name": "Fresh Hair Oil",
+    "image": "https://picsum.photos/seed/beauty600/400/400",
+    "description": "High-quality hair oil designed for a smooth, comfortable and beautiful everyday look.",
+    "price": 1618,
+    "line_through_price": 1909
+  }
+]
